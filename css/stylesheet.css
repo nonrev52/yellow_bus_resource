@@ -1,0 +1,9 @@
+/* header  */
+.myb{
+    text-align: center;
+    font: 1000;
+    background-color: black;
+    color: yellow;
+    border: 100px;
+    padding: 100px;
+}
